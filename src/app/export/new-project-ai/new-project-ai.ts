@@ -29,8 +29,12 @@ export default class NewProjectAI extends LitElement {
       align-content: flex-start;
       gap: 24px;
       position: relative;
+      width: 1505px;
+      height: 880px;
       min-width: 50px;
       min-height: 50px;
+      max-width: 1505px;
+      max-height: 880px;
       flex-shrink: 0;
     }
     .aiconversion-tabs {
