@@ -183,6 +183,36 @@ export default class NewProjectAI extends LitElement {
                   Adjust parameters to fine-tune your anime conversion.
                 </p>
                 <igc-select ?outlined=${true} label="Background Style" placeholder="Select a style" class="user-input">
+                  <igc-select-item value="neon-rain-city">
+                    Neon Rain City
+                  </igc-select-item>
+                  <igc-select-item value="broken-sky-battlefield">
+                    Broken Sky Battlefield
+                  </igc-select-item>
+                  <igc-select-item value="haunted-forest-glow">
+                    Haunted Forest Glow
+                  </igc-select-item>
+                  <igc-select-item value="golden-hour-school">
+                    Golden Hour School Emotion Scene
+                  </igc-select-item>
+                  <igc-select-item value="cyber-alley-chaos">
+                    Cyber Alley Chaos
+                  </igc-select-item>
+                  <igc-select-item value="apocalypse-horizon">
+                    Apocalypse Horizon
+                  </igc-select-item>
+                  <igc-select-item value="memory-dimension-space">
+                    Memory Dimension Space
+                  </igc-select-item>
+                  <igc-select-item value="slow-motion-impact-zone">
+                    Slow Motion Impact Zone
+                  </igc-select-item>
+                  <igc-select-item value="emotional-ocean-silence">
+                    Emotional Ocean Silence
+                  </igc-select-item>
+                  <igc-select-item value="traditional-festival-glow">
+                    Traditional Festival Glow
+                  </igc-select-item>
                   <igc-select-item value="vibe-killing">
                     Vibe Killing
                   </igc-select-item>
